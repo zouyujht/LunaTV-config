@@ -47,11 +47,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-12 19:24 CST）
+## API 状态（最近更新：2025-11-12 20:57 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：67
-- 失败 API 数量：10
+- 成功 API 数量：71
+- 失败 API 数量：6
 - 平均可用率：91.5%
 - 完美可用率（100%）：43 个
 - 高可用率（80%-99%）：28 个
@@ -108,14 +108,14 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬量子资源 | https://cj.lziapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
-| ❌ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬量子资源 | https://cj.lziapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞玉兔资源 | https://apiyutu.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞美少女 | https://www.msnii.com/api/json.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 98 | 2 | 98.0% | 0 |
