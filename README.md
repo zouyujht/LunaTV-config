@@ -47,11 +47,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-13 21:33 CST）
+## API 状态（最近更新：2025-12-13 22:25 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：68
-- 失败 API 数量：9
+- 成功 API 数量：69
+- 失败 API 数量：8
 - 平均可用率：89.1%
 - 完美可用率（100%）：49 个
 - 高可用率（80%-99%）：20 个
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞黄AVZY | https://www.pgxdy.com/api/json.php | 98 | 2 | 98.0% | 0 |
-| ❌ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 97 | 3 | 97.0% | 1 |
+| ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
