@@ -47,11 +47,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-03 17:28 CST）
+## API 状态（最近更新：2026-01-03 18:29 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：69
-- 失败 API 数量：8
+- 成功 API 数量：68
+- 失败 API 数量：9
 - 平均可用率：88.0%
 - 完美可用率（100%）：44 个
 - 高可用率（80%-99%）：25 个
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 1 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 82 | 18 | 82.0% | 0 |
