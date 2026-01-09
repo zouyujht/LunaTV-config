@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-10 00:39 CST）
+## API 状态（最近更新：2026-01-10 01:31 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：69
@@ -127,8 +127,8 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
 | ✅ | 🎬旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
