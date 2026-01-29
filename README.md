@@ -47,14 +47,14 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-29 12:45 CST）
+## API 状态（最近更新：2026-01-29 13:53 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：68
-- 失败 API 数量：9
-- 平均可用率：87.5%
-- 完美可用率（100%）：19 个
-- 高可用率（80%-99%）：49 个
+- 成功 API 数量：66
+- 失败 API 数量：11
+- 平均可用率：87.4%
+- 完美可用率（100%）：18 个
+- 高可用率（80%-99%）：50 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：9 个
 
@@ -78,7 +78,6 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞大奶子 | https://apidanaizi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞白嫖资源 | https://www.kxgav.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞美少女 | https://www.msnii.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -100,6 +99,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 99 | 1 | 99.0% | 0 |
+| ❌ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -130,9 +130,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞黄AVZY | https://www.pgxdy.com/api/json.php | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 40 | 60 | 40.0% | 3 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 1 | 99 | 1.0% | 90 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 1 |
+| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 39 | 61 | 39.0% | 4 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 1 | 99 | 1.0% | 91 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
