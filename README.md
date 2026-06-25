@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-25 19:46 CST）
+## API 状态（最近更新：2026-06-25 22:48 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：64
-- 失败 API 数量：13
-- 平均可用率：83.9%
+- 成功 API 数量：65
+- 失败 API 数量：12
+- 平均可用率：83.8%
 - 完美可用率（100%）：41 个
 - 高可用率（80%-99%）：23 个
 - 中等可用率（50%-79%）：2 个
@@ -122,10 +122,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ❌ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 95 | 5 | 95.0% | 0 |
+| ❌ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 2 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 66 | 34 | 66.0% | 0 |
