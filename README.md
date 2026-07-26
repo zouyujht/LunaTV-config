@@ -47,11 +47,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-26 12:33 CST）
+## API 状态（最近更新：2026-07-26 15:41 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：61
-- 失败 API 数量：16
+- 成功 API 数量：63
+- 失败 API 数量：14
 - 平均可用率：83.1%
 - 完美可用率（100%）：40 个
 - 高可用率（80%-99%）：24 个
@@ -123,11 +123,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
+| ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 91 | 9 | 91.0% | 9 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 90 | 10 | 90.0% | 1 |
-| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 53 | 47 | 53.0% | 45 |
+| 🚨 | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 90 | 10 | 90.0% | 10 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
+| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 52 | 48 | 52.0% | 46 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
