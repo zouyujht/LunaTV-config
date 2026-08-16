@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-17 03:27 CST）
+## API 状态（最近更新：2026-08-17 04:31 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：62
 - 失败 API 数量：15
-- 平均可用率：80.3%
+- 平均可用率：80.2%
 - 完美可用率（100%）：49 个
 - 高可用率（80%-99%）：12 个
 - 中等可用率（50%-79%）：0 个
@@ -125,9 +125,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬CK资源 | https://ckzy.me/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 43 | 57 | 43.0% | 0 |
-| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 33 | 67 | 33.0% | 67 |
-| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 33 | 67 | 33.0% | 67 |
-| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 33 | 67 | 33.0% | 67 |
+| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 32 | 68 | 32.0% | 68 |
+| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 32 | 68 | 32.0% | 68 |
+| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 32 | 68 | 32.0% | 68 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
