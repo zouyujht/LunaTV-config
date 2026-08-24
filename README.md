@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-25 06:35 CST）
+## API 状态（最近更新：2026-08-25 07:29 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：61
@@ -121,10 +121,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 90 | 10 | 90.0% | 9 |
-| 🚨 | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 84 | 16 | 84.0% | 10 |
+| 🚨 | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 89 | 11 | 89.0% | 10 |
+| 🚨 | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 83 | 17 | 83.0% | 11 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 58 | 42 | 58.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 57 | 43 | 57.0% | 0 |
